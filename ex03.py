@@ -17,3 +17,6 @@ soma = sum(vetor_numeros)
 
 print(f'A soma dos números é: {soma}')
 print(f'Quantidade de números maiores que 10: {maior}')
+
+print('Feito por: Maria Clara')
+print('R.A.: 026.085188')
