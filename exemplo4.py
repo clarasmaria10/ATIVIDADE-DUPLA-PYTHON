@@ -18,3 +18,6 @@ for posicao, numero in enumerate(vetor):
 
 if not encontrado:
     print("Número não encontrado.")
+
+print('\nFeito por: Camilla Bastos')
+print('R.A.: 026.082364')
